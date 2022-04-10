@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FleaMarket.Core", "FleaMarket.Core\FleaMarket.Core.csproj", "{3E608C88-FE8C-4A14-8083-B12232FD58E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FleaMarket.Data", "FleaMarket.Data\FleaMarket.Data.csproj", "{70786854-36EC-4E51-A6BE-F3A8A27C83C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FleaMarket.Application", "FleaMarket.Application\FleaMarket.Application.csproj", "{A303E8D2-48F4-42BB-B597-D65FCF235CB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FleaMarket", "FleaMarket\FleaMarket.csproj", "{DE870187-D10E-479A-AC24-ED0FF940BB6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E608C88-FE8C-4A14-8083-B12232FD58E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E608C88-FE8C-4A14-8083-B12232FD58E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E608C88-FE8C-4A14-8083-B12232FD58E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E608C88-FE8C-4A14-8083-B12232FD58E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70786854-36EC-4E51-A6BE-F3A8A27C83C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70786854-36EC-4E51-A6BE-F3A8A27C83C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70786854-36EC-4E51-A6BE-F3A8A27C83C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70786854-36EC-4E51-A6BE-F3A8A27C83C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A303E8D2-48F4-42BB-B597-D65FCF235CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A303E8D2-48F4-42BB-B597-D65FCF235CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A303E8D2-48F4-42BB-B597-D65FCF235CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A303E8D2-48F4-42BB-B597-D65FCF235CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE870187-D10E-479A-AC24-ED0FF940BB6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE870187-D10E-479A-AC24-ED0FF940BB6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE870187-D10E-479A-AC24-ED0FF940BB6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE870187-D10E-479A-AC24-ED0FF940BB6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
